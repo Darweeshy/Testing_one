@@ -1,0 +1,1 @@
+Customer{address='zebbi', sourceofincome=69, email='aksasaas', password='askasdkkas', name='ali', ID=69, DOB='ssadassd', employment='sasasad'}
